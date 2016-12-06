@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 fhdjhfjk
 ajgklldjbgv 
 动力火锅；登录；健康；djj
 dkgljf;k
  跨行；个代理商；jg
+=======
+fhdjhfjk
+>>>>>>> parent of 00b3987... 我是乱加的
